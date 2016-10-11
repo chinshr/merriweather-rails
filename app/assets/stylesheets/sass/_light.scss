@@ -1,0 +1,8 @@
+/* BEGIN Light */
+@font-face {
+	font-family: "Merriweather";
+	@include fontdef($FontPath, $FontName, $FontVersion, "light");
+	font-weight: 300;
+	font-style: normal;
+}
+/* END Light */
